@@ -59,7 +59,7 @@ The simulation will start automatically after running the program.
 
 ## 👤 Developer
 
-**Efe**  
+**Efe Adak**  
 Software Engineering Student  
 C Programming & Data Structures Project
 
@@ -67,4 +67,5 @@ C Programming & Data Structures Project
 
 ✅ This project is for educational purposes.  
 ✅ It can be freely modified and forked.
+
 
